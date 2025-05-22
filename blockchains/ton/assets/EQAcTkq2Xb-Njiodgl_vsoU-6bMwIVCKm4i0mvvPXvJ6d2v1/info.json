@@ -1,0 +1,11 @@
+{
+  "name": "Ripple XRP",
+  "symbol": "XRP",
+  "decimals": 9,
+  "type": "TON",
+  "description": "Ripple XRP — токен, созданный в сети TON. Используется для расчётов в игровой платформе.",
+  "website": "https://startio.site/xrp/",
+  "explorer": "https://tonviewer.com/EQAcTkq2Xb-Njiodgl_vsoU-6bMwIVCKm4i0mvvPXvJ6d2v1",
+  "status": "active",
+  "id": "EQAcTkq2Xb-Njiodgl_vsoU-6bMwIVCKm4i0mvvPXvJ6d2v1"
+}
